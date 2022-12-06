@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TKManager_Tests' do
+  pod 'TKManager', :path => '../'
+  
+  
+end

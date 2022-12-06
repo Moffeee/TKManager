@@ -1,0 +1,79 @@
+PODS:
+  - AliPlayerSDK_iOS (5.4.9.2):
+    - AliPlayerSDK_iOS/AliPlayerSDK (= 5.4.9.2)
+  - AliPlayerSDK_iOS/AliPlayerSDK (5.4.9.2)
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - CocoaLumberjack (3.6.2):
+    - CocoaLumberjack/Core (= 3.6.2)
+  - CocoaLumberjack/Core (3.6.2)
+  - JCore (2.7.1)
+  - JPush (3.2.8):
+    - JCore (< 3.0.0, >= 2.0.0)
+  - Masonry (1.1.0)
+  - MJRefresh (3.7.5)
+  - SDWebImage (5.14.1):
+    - SDWebImage/Core (= 5.14.1)
+  - SDWebImage/Core (5.14.1)
+  - SVProgressHUD (2.2.5)
+  - TKManager (0.1.0):
+    - AliPlayerSDK_iOS
+    - Charts
+    - CocoaLumberjack (~> 3.6.0)
+    - JPush (~> 3.2.6)
+    - Masonry
+    - MJRefresh
+    - SDWebImage
+    - SVProgressHUD
+    - TZImagePickerController
+    - UMengAnalytics (~> 4.2.4)
+    - WechatOpenSDK
+  - TZImagePickerController (3.8.3):
+    - TZImagePickerController/Basic (= 3.8.3)
+    - TZImagePickerController/Location (= 3.8.3)
+  - TZImagePickerController/Basic (3.8.3)
+  - TZImagePickerController/Location (3.8.3)
+  - UMengAnalytics (4.2.4)
+  - WechatOpenSDK (1.9.7)
+
+DEPENDENCIES:
+  - TKManager (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - AliPlayerSDK_iOS
+    - Charts
+    - CocoaLumberjack
+    - JCore
+    - JPush
+    - Masonry
+    - MJRefresh
+    - SDWebImage
+    - SVProgressHUD
+    - TZImagePickerController
+    - UMengAnalytics
+    - WechatOpenSDK
+
+EXTERNAL SOURCES:
+  TKManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AliPlayerSDK_iOS: 24100e353b992c506a23aa68e8cfb2d251430aae
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  CocoaLumberjack: bd155f2dd06c0e0b03f876f7a3ee55693122ec94
+  JCore: 9d5bda3a172c65bbe14f2806ab0f6246f8a06065
+  JPush: 8ce888d6dedfa417e90c8b6bc87405a16ce2e699
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
+  SDWebImage: e1b3c38f170c6100130fce6856e423ed9e5f4fce
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  TKManager: c865e87612ec148e7bd6fa311e50b08a8d6e5227
+  TZImagePickerController: e9909edbadf7381140efc5b5c9f5bdbfd630f7d4
+  UMengAnalytics: ef8d45f94c0e5771dc364cf6a5731d9d3b101da2
+  WechatOpenSDK: 2f0ae448c7525cb5c27db5f7aa0f568de0988fa4
+
+PODFILE CHECKSUM: a6d1278fa404eea6a54e79d0966435feb8995613
+
+COCOAPODS: 1.11.3
