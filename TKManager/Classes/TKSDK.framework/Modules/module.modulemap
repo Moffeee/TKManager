@@ -1,4 +1,0 @@
-framework module TKSDK {
-  header "TKSDK-Swift.h"
-  requires objc
-}
